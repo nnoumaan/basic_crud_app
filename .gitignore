@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Prisma generated files
+/prisma/dev.db  # if you use SQLite
+/prisma/migrations/
+
+# TypeScript build output
+dist/
